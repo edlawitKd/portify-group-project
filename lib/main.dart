@@ -10,6 +10,7 @@ import 'screens/settings_screen.dart';
 import 'screens/qr_share_screen.dart';
 
 void main() {
+
   runApp(const PortifyApp());
 }
 
