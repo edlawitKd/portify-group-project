@@ -104,6 +104,11 @@ Portify is a modern Flutter mobile application that allows users to create, mana
 | 4   | [Mikeyas Nega]     | [0742/15] | analytics dashboard and API integration |
 | 5   | [Abiy Biniyam]     | [0074/15] | QR sharing and documentation            |
 
+## Video Presentation
+
+Watch our complete project presentation on Loom:
+https://www.loom.com/share/78909041b4ec439ba967a18d69ce6e2c
+
 ## Installation Instructions
 
 ### Prerequisites
@@ -120,4 +125,4 @@ Portify is a modern Flutter mobile application that allows users to create, mana
 ```bash
 git clone https://github.com/edlawitKd/portify-group-project
 cd portify
-```
+#```
